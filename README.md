@@ -1,9 +1,14 @@
 ### Current interests
 
+I am experienced developer with over 8 years of commercial experience in web, mobile, APIs and cloud solutions.
+
 Right now I'm building:
-- Serverless architectures in AWS
+- Serverless applications
+- AWS solutions
 - Node.js
 - React Native
+- .NET MVC
+
 
 <!--
 **pgrinsell/pgrinsell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
