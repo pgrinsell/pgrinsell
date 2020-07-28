@@ -1,4 +1,9 @@
-### Hi there 👋
+### Current interests
+
+Right now I'm building:
+- Serverless architectures in AWS
+- Node.js
+- React Native
 
 <!--
 **pgrinsell/pgrinsell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
