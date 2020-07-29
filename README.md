@@ -2,12 +2,12 @@
 
 I am experienced developer with over 8 years of commercial experience in web, mobile, APIs and cloud solutions.
 
-Right now I'm building:
-- Serverless applications
-- AWS solutions
+Right now I'm building solutions using:
+- Serverless architectures
+- AWS
 - Node.js
 - React Native
-- .NET MVC
+- .NET MVC/C#
 
 
 <!--
