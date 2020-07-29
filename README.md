@@ -1,6 +1,8 @@
-### Current interests
+### Hi there!
 
-I am experienced developer with over 8 years of commercial experience in web, mobile, APIs and cloud solutions.
+I am experienced developer with over 8 years of commercial experience in web apps, native mobile apps, APIs and cloud solutions.
+
+#### Current technologies
 
 Right now I'm building solutions using:
 - Serverless architectures
