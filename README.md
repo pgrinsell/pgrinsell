@@ -5,11 +5,11 @@ I am experienced developer with over 8 years of commercial experience in web app
 #### Current technologies
 
 Right now I'm building solutions using:
-- Serverless architectures
-- AWS
-- Node.js
-- React Native
+- React/React Native
 - .NET MVC/C#
+- AWS
+- Serverless architectures
+- Node.js
 
 
 <!--
