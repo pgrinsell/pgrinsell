@@ -1,15 +1,14 @@
 ### Hi there!
 
-I am experienced developer with over 8 years of commercial experience in web apps, native mobile apps, APIs and cloud solutions.
+I am experienced developer with 9 years of commercial experience building web applications.
 
-#### Current technologies
-
-Right now I'm building solutions using:
-- React/React Native
-- .NET MVC/C#
-- AWS
-- Serverless architectures
-- Node.js
+Main strengths:
+- C# including .NET Framework, .NET Core, MVC and Entity Framework
+- Javacript (ES2018) including React, React Native, Expo and Node.js
+- MS SQL/T-SQL
+- CI/CD using GitHub Actions and Azure DevOps
+- Version control using Git and TFVC
+- AWS and serverless architectures
 
 
 <!--
