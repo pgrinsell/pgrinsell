@@ -1,14 +1,17 @@
 ### Hi there!
 
-I am experienced developer with 9 years of commercial experience building web applications.
+I am experienced developer with over 10 years of commercial experience building web applications.
 
 Main strengths:
-- C# including .NET Framework, .NET Core, MVC and Entity Framework
-- Javacript (ES2018) including React, React Native, Expo and Node.js
-- MS SQL/T-SQL
+- React/JS
+- C#/.NET
+- Node.js
+- Lambda
+- SQL (MS SQL and MySQL)
 - CI/CD using GitHub Actions and Azure DevOps
-- Version control using Git and TFVC
-- AWS and serverless architectures
+- Agile development
+- AWS
+- React Native, Expo
 
 
 <!--
