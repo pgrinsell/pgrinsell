@@ -2,16 +2,22 @@
 
 I am experienced developer with over 10 years of commercial experience building web applications.
 
-Main strengths:
-- React/JS
+I currently work as Lead Developer at NewZapp Communications, designing and building internal email communications software supporting some of the UK's largest organisations.
+
+My main strengths are:
+- React/Javascript
 - C#/.NET
+- HTML/CSS
+- SQL
 - Node.js
 - Lambda
-- SQL (MS SQL and MySQL)
-- CI/CD using GitHub Actions and Azure DevOps
-- Agile development
+- CI/CD/DevOps
 - AWS
-- React Native, Expo
+- React Native/Expo
+- GitHub
+- Azure DevOps
+- Agile development
+
 
 
 <!--
