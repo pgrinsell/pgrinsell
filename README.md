@@ -1,24 +1,20 @@
 ### Hi there!
 
-I am experienced developer with over 10 years of commercial experience building web applications.
+I am experienced developer with 13 years of commercial experience building web applications.
 
 I currently work as Lead Developer at NewZapp Communications, designing and building internal email communications software supporting some of the UK's largest organisations.
 
 My main strengths are:
-- React/Javascript
-- C#/.NET
-- HTML/CSS
-- SQL
-- Node.js
-- Lambda
-- CI/CD/DevOps
+- React and JavaScript
+- C# and .NET
+- SQL (MS SQL Server and MySQL)
 - AWS
-- React Native/Expo
-- GitHub
-- Azure DevOps
-- Agile development
-
-
+- CI/CD and DevOps
+- HTML and CSS
+- Node.js
+- React Native
+- GitHub and Azure DevOps
+- Agile
 
 <!--
 **pgrinsell/pgrinsell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
